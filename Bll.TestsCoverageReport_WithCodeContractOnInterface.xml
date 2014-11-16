@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="9" visitedSequencePoints="8" numBranchPoints="14" visitedBranchPoints="4" sequenceCoverage="88.89" branchCoverage="28.57" maxCyclomaticComplexity="6" minCyclomaticComplexity="1" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="0D-96-F6-4F-F5-BE-F1-5E-07-DD-20-C4-04-E5-80-8B-81-52-C7-5F">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="08-BF-92-14-93-00-2A-42-CE-32-37-59-01-59-E7-49-28-41-00-61">
+      <FullName>C:\Program Files\Gallio\bin\Gallio.Echo.exe</FullName>
+      <ModuleName>Gallio.Echo</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="5B-F0-65-D3-3F-C4-30-AC-0A-55-5B-36-F5-D4-10-C5-B2-DE-3A-36">
+      <FullName>C:\Program Files\Gallio\bin\Gallio.dll</FullName>
+      <ModuleName>Gallio</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="36-6D-BE-CC-C6-8D-5C-6B-D8-CE-E3-42-E9-1D-D1-3D-6E-FD-D9-5C">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="38-4A-D4-CE-0C-44-E3-14-2E-0C-38-16-21-36-08-FC-9E-19-4A-F0">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-6E-E8-4F-40-6A-75-31-1B-08-C2-22-D5-EA-FE-23-3B-7B-82-15">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="EF-21-2C-4C-EC-3A-25-B6-C6-29-0E-24-F0-F9-81-50-B6-01-83-DD">
+      <FullName>C:\Program Files\Gallio\bin\Gallio.XmlSerializers.dll</FullName>
+      <ModuleName>Gallio.XmlSerializers</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="0D-D5-B2-1E-4C-1B-8D-16-0A-9F-65-F1-B0-E9-42-FD-A9-97-83-3E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll</FullName>
+      <ModuleName>System.Drawing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="EA-4C-40-75-F3-24-C7-F4-8B-F0-F8-96-F1-BD-11-14-33-B1-A7-08">
+      <FullName>C:\Program Files\Gallio\bin\NUnit\Latest\Gallio.NUnitAdapterLatest.dll</FullName>
+      <ModuleName>Gallio.NUnitAdapterLatest</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="C6-A4-C6-84-EB-84-41-C4-A9-30-69-92-57-02-1A-EE-1A-09-C1-61">
+      <FullName>C:\Program Files\Gallio\bin\NUnit\Latest\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="72-C7-03-3D-46-8A-09-61-49-D7-41-77-D2-AB-3C-B0-58-18-E6-A9">
+      <FullName>C:\Program Files\Gallio\bin\NUnit\Latest\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="7A-99-4B-0E-30-AA-4A-64-F6-D0-5F-F1-41-D9-04-6D-56-99-A6-79">
+      <FullName>C:\Program Files\Gallio\bin\NUnit\Latest\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8B-6B-0D-0B-C5-5B-10-A0-CD-78-05-B7-13-A2-4C-DA-E5-47-4E-70">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DF-5B-08-A4-00-4E-95-1A-A7-FD-67-89-72-88-19-95-41-63-DA-30">
+      <FullName>C:\Program Files\Gallio\bin\Gallio.Host.exe</FullName>
+      <ModuleName>Gallio.Host</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="88-33-18-CB-18-98-90-07-8B-C9-64-EC-82-18-5E-E2-B7-EF-64-FD">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_64\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="69-50-42-F9-7C-52-B7-B4-60-17-AA-B6-97-B9-FE-7A-16-A2-E9-3C">
+      <FullName>C:\dev\Demo\OpenCoverTest\OpenCoverSandbox\Bll.Tests\bin\Debug\Bll.Tests.dll</FullName>
+      <ModuleName>Bll.Tests</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="42-83-FE-A6-9F-01-8E-2C-E8-41-E9-25-3E-1E-0D-99-81-76-6B-C9">
+      <FullName>C:\dev\Demo\OpenCoverTest\OpenCoverSandbox\Bll.Tests\bin\Debug\nunit.framework.dll</FullName>
+      <ModuleName>nunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="95-1C-13-07-F1-08-FE-50-F0-58-50-93-34-72-93-D0-D9-64-92-62">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll</FullName>
+      <ModuleName>System.Windows.Forms</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="8A-1D-9B-61-87-F4-2C-5A-DC-F9-7B-D5-4E-BD-BA-B0-A4-17-9F-71">
+      <Summary numSequencePoints="9" visitedSequencePoints="8" numBranchPoints="14" visitedBranchPoints="4" sequenceCoverage="88.89" branchCoverage="28.57" maxCyclomaticComplexity="6" minCyclomaticComplexity="1" />
+      <FullName>C:\dev\Demo\OpenCoverTest\OpenCoverSandbox\Bll.Tests\bin\Debug\Bll.dll</FullName>
+      <ModuleName>Bll</ModuleName>
+      <Files>
+        <File uid="1" fullPath="c:\dev\Demo\OpenCoverTest\OpenCoverSandbox\IBll\ITestBll.cs" />
+        <File uid="2" fullPath="c:\dev\Demo\OpenCoverTest\OpenCoverSandbox\Bll\TestBll.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="9" visitedSequencePoints="8" numBranchPoints="4" visitedBranchPoints="3" sequenceCoverage="88.89" branchCoverage="75" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+          <FullName>Bll.TestBll</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="83.33" branchCoverage="66.67" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="5" numBranchPoints="3" visitedBranchPoints="2" sequenceCoverage="83.33" branchCoverage="66.67" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Int32 Bll.TestBll::Method1(System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="1" ordinal="0" offset="0" sl="19" sc="13" el="19" ec="93" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="2" ordinal="1" offset="20" sl="7" sc="9" el="7" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="3" ordinal="2" offset="21" sl="8" sc="13" el="8" ec="26" bec="2" bev="1" fileid="2" />
+                <SequencePoint vc="1" uspid="4" ordinal="3" offset="36" sl="9" sc="17" el="9" ec="40" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="0" uspid="5" ordinal="4" offset="49" sl="11" sc="17" el="11" ec="29" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="6" ordinal="5" offset="60" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="1" uspid="7" ordinal="0" offset="31" sl="8" path="0" offsetchain="" offsetend="36" />
+                <BranchPoint vc="0" uspid="8" ordinal="1" offset="31" sl="8" path="1" offsetchain="" offsetend="49" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="1" ordinal="0" offset="0" sl="19" sc="13" el="19" ec="93" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Int32 Bll.TestBll::MultiplyBy2(System.Int32)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="9" ordinal="0" offset="0" sl="15" sc="9" el="15" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="10" ordinal="1" offset="1" sl="16" sc="13" el="16" ec="27" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="11" ordinal="2" offset="10" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="9" ordinal="0" offset="0" sl="15" sc="9" el="15" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void Bll.TestBll::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="12" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="10" visitedBranchPoints="1" sequenceCoverage="0" branchCoverage="10" maxCyclomaticComplexity="6" minCyclomaticComplexity="6" />
+          <FullName>System.Diagnostics.Contracts.__ContractsRuntime</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="6" sequenceCoverage="0" branchCoverage="10" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="10" visitedBranchPoints="1" sequenceCoverage="0" branchCoverage="10" maxCyclomaticComplexity="6" minCyclomaticComplexity="6" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void System.Diagnostics.Contracts.__ContractsRuntime::Requires(System.Boolean,System.String,System.String)</Name>
+              <SequencePoints />
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="14" ordinal="0" offset="1" sl="-1" path="0" offsetchain="" offsetend="6" />
+                <BranchPoint vc="1" uspid="15" ordinal="1" offset="1" sl="-1" path="1" offsetchain="" offsetend="278" />
+                <BranchPoint vc="0" uspid="16" ordinal="2" offset="77" sl="-1" path="0" offsetchain="" offsetend="82" />
+                <BranchPoint vc="0" uspid="17" ordinal="3" offset="77" sl="-1" path="1" offsetchain="" offsetend="188" />
+                <BranchPoint vc="0" uspid="18" ordinal="4" offset="109" sl="-1" path="0" offsetchain="" offsetend="114" />
+                <BranchPoint vc="0" uspid="19" ordinal="5" offset="109" sl="-1" path="1" offsetchain="" offsetend="151" />
+                <BranchPoint vc="0" uspid="20" ordinal="6" offset="230" sl="-1" path="0" offsetchain="" offsetend="235" />
+                <BranchPoint vc="0" uspid="21" ordinal="7" offset="230" sl="-1" path="1" offsetchain="" offsetend="262" />
+                <BranchPoint vc="0" uspid="22" ordinal="8" offset="263" sl="-1" path="0" offsetchain="" offsetend="268" />
+                <BranchPoint vc="0" uspid="23" ordinal="9" offset="263" sl="-1" path="1" offsetchain="" offsetend="276" />
+              </BranchPoints>
+              <MethodPoint vc="1" uspid="13" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>System.Diagnostics.Contracts.RuntimeContractsAttribute</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void System.Diagnostics.Contracts.RuntimeContractsAttribute::.ctor(System.Diagnostics.Contracts.RuntimeContractsFlags)</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="24" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="Filter" hash="DD-B5-D2-F1-53-65-53-F9-F6-11-CE-9C-24-61-4E-27-6C-A5-54-32">
+      <FullName>C:\dev\Demo\OpenCoverTest\OpenCoverSandbox\Bll.Tests\bin\Debug\IBll.dll</FullName>
+      <ModuleName>IBll</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

@@ -1,6 +1,4 @@
 ﻿
-using System;
-using System.Diagnostics.Contracts;
 namespace IBll
 {
     //[ContractClass(typeof(ITestBllContract))]
@@ -10,7 +8,6 @@ namespace IBll
     }
 
 
-    /// <summary>Defines code contracts for <see cref="IArticleFrontendBll"/> interface</summary>
     //[ContractClassFor(typeof(ITestBll))]
     //internal abstract class ITestBllContract : ITestBll
     //{
